@@ -1,7 +1,7 @@
-![](https://img.shields.io/badge/Foundry-v10-informational)
+![](https://img.shields.io/badge/Foundry-v13-informational)
 <!--- Downloads @ Latest Badge -->
 <!--- replace <user>/<repo> with your username/repository -->
-<!--- ![Latest Release Download Count](https://img.shields.io/github/downloads/<user>/<repo>/latest/module.zip) -->
+<!--- ![Latest Release Download Count](https://img.shields.io/github/downloads/digitalshadowhawk/PF2e-Perception-Helper/latest/module.zip) -->
 
 <!--- Forge Bazaar Install % Badge -->
 <!--- replace <your-module-name> with the `name` in your manifest -->
